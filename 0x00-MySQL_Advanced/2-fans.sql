@@ -1,3 +1,4 @@
+-- Task 2. Best band ever! use of group by clause
 -- Ranks country origins of bands, ordered by the number of (non-unique) fans.
 SELECT origin, SUM(fans) AS nb_fans
     FROM metal_bands
