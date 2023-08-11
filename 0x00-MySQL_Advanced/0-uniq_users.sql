@@ -1,3 +1,4 @@
+-- Task 0. we are all unique!
 -- Creates a table with unique users.
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
