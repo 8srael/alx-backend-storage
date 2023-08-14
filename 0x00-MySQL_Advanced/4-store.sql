@@ -1,3 +1,4 @@
+-- Task 4. Buy buy buy
 -- Creates a trigger that decreases the quantity
 -- of an item after adding a new order.
 DROP TRIGGER IF EXISTS reduce_quantity;
